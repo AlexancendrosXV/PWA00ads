@@ -7,7 +7,12 @@ const PRECACHE_URLS = [
   './',//alias for index.html
   'style.css',
   'main.js',
-  'sw.js'
+  'images2/hello-icon-128.png',
+  'images2/hello-icon-144.png',
+  'images2/hello-icon-152.png',
+  'images2/hello-icon-256.png',
+  'images2/hello-icon-512.png',
+  'sw.js',
   ];
 
 // The install handler takes care of precaching our resources as directed
