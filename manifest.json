@@ -2,5 +2,7 @@
   "name": "Hello World",
   "short_name": "Hello",
   "start_url": "/PWA00ads/index.html",
-  "display": "standalone"
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white"
 }
