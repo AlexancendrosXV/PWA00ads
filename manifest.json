@@ -1,8 +1,39 @@
 {
   "name": "Hello World",
   "short_name": "Hello",
+  "icons":[{
+    "src":"images2/hello-icon-128.png",
+    "sizes":"128x128",
+    "type":"image/png",
+    "purpose":"any"
+  },{
+     "src":"images2/hello-icon-128.png",
+    "sizes":"192x192",
+    "type":"image/png",
+    "purpose":"any"
+  },{
+     "src":"images2/hello-icon-128.png",
+    "sizes":"256x256",
+    "type":"image/png",
+    "purpose":"any"
+  },{
+     "src":"images2/hello-icon-128.png",
+    "sizes":"144x144",
+    "type":"image/png",
+    "purpose":"any"
+  },{
+     "src":"images2/hello-icon-128.png",
+    "sizes":"152x152",
+    "type":"image/png",
+    "purpose":"any"
+  },{ "src":"images2/hello-icon-128.png",
+    "sizes":"512x512",
+    "type":"image/png",
+    "purpose":"any"
+  }],
   "start_url": "/PWA00ads/index.html",
   "display": "standalone",
+  "prefer_related_applications": false,
   "background_color": "white",
   "theme_color": "white"
 }
